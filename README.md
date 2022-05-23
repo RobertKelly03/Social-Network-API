@@ -8,8 +8,9 @@ An API for a social network web application where users can share their thoughts
 video of the application:
 ![social-network-api](./assets/users.gif)
 
+![gif1](https://user-images.githubusercontent.com/55413812/169722690-f2809c26-3a05-46fc-9f10-58f9c1c5525c.gif)
 
-social-network-api
+
 
 User Story
 AS A social media startup
